@@ -24,7 +24,7 @@ allprojects {
   ```gradle
   dependencies {
           ...
-	        implementation 'com.github.git-kishan:BubbleLoader:Tag'
+	      implementation 'com.github.git-kishan:BubbleLoader:1.0.0'
 	}
   ```
   
