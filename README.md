@@ -6,7 +6,7 @@
 >Bubble loading library for android 
 
 
->Step 1. Add the JitPack repository to your build file
+>Step 1. Add the to package level build.gradle
 
 
 
@@ -19,7 +19,7 @@ allprojects {
 	}
   ```
   
-  Step 2. Add the dependency
+  Step 2. Add this dependency to app level build.gradle
   
   ```gradle
   dependencies {
@@ -33,7 +33,8 @@ allprojects {
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:duration_cycle="800"
-        app:color="@color/black"/> 
+        app:color="@color/black"
+    /> 
    ```
    
    >duration_cycle : Integer (time in millisecond)
