@@ -1,6 +1,10 @@
 # BubbleLoader
 
-Bubble loading library for android 
+![Alt Text](https://media.giphy.com/media/HWy4whdzO2dP9FCPcy/giphy.gif)
+
+
+>Bubble loading library for android 
+
 
 >Step 1. Add the JitPack repository to your build file
 
